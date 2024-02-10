@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "suits-rent": {
+      "hosting": {
+        "app": [
+          "suits-rent"
+        ]
+      }
+    },
+    "suits-rents": {
+      "hosting": {
+        "app": [
+          "suits-rents"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "suits-rents"
+  }
+}

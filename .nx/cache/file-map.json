@@ -6,6 +6,7 @@
     "@angular/common": "^17.0.2",
     "@angular/compiler": "^17.0.2",
     "@angular/core": "^17.0.2",
+    "@angular/fire": "^17.0.1",
     "@angular/forms": "^17.0.2",
     "@angular/platform-browser": "^17.0.2",
     "@angular/platform-browser-dynamic": "^17.0.2",
@@ -87,10 +88,6 @@
       {
         "file": "ionic.config.json",
         "hash": "13976576330644578891"
-      },
-      {
-        "file": "ionic.starter.json",
-        "hash": "2670511773231908809"
       },
       {
         "file": "karma.conf.js",
