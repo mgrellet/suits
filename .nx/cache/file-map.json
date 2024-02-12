@@ -66,8 +66,12 @@
         "hash": "18210278994710539225"
       },
       {
+        "file": ".firebaserc",
+        "hash": "12004392695724686866"
+      },
+      {
         "file": ".gitignore",
-        "hash": "91109559695469517"
+        "hash": "14555918630938920276"
       },
       {
         "file": ".vscode/extensions.json",
@@ -79,11 +83,15 @@
       },
       {
         "file": "angular.json",
-        "hash": "11992048326398934745"
+        "hash": "2085545002424968445"
       },
       {
         "file": "capacitor.config.ts",
         "hash": "18273150610734635592"
+      },
+      {
+        "file": "firebase.json",
+        "hash": "6027613154799111727"
       },
       {
         "file": "ionic.config.json",
@@ -95,15 +103,43 @@
       },
       {
         "file": "package-lock.json",
-        "hash": "15294254294725289409"
+        "hash": "1543022749297182994"
       },
       {
         "file": "package.json",
-        "hash": "17402166009579603829"
+        "hash": "17832440808207904752"
+      },
+      {
+        "file": "readme.md",
+        "hash": "14095556879213872985"
+      },
+      {
+        "file": "src/app/add/add-routing.module.ts",
+        "hash": "14867550388645542754"
+      },
+      {
+        "file": "src/app/add/add.module.ts",
+        "hash": "6432658516141404952"
+      },
+      {
+        "file": "src/app/add/add.page.html",
+        "hash": "12063215339665395770"
+      },
+      {
+        "file": "src/app/add/add.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/add/add.page.spec.ts",
+        "hash": "8545019424640906729"
+      },
+      {
+        "file": "src/app/add/add.page.ts",
+        "hash": "12336456342543463434"
       },
       {
         "file": "src/app/app-routing.module.ts",
-        "hash": "11801418085704297101"
+        "hash": "14709239169355205199"
       },
       {
         "file": "src/app/app.component.html",
@@ -123,7 +159,7 @@
       },
       {
         "file": "src/app/app.module.ts",
-        "hash": "17195997832060172707"
+        "hash": "9927950137676617373"
       },
       {
         "file": "src/app/explore-container/explore-container.component.html",
@@ -146,80 +182,32 @@
         "hash": "7418061059857182964"
       },
       {
-        "file": "src/app/tab1/tab1-routing.module.ts",
-        "hash": "11381973081829977082"
+        "file": "src/app/history/history-routing.module.ts",
+        "hash": "7962832130638803616"
       },
       {
-        "file": "src/app/tab1/tab1.module.ts",
-        "hash": "15566281578784902545"
+        "file": "src/app/history/history.module.ts",
+        "hash": "17223358990653917730"
       },
       {
-        "file": "src/app/tab1/tab1.page.html",
-        "hash": "13207509910740934786"
+        "file": "src/app/history/history.page.html",
+        "hash": "18024459609092092527"
       },
       {
-        "file": "src/app/tab1/tab1.page.scss",
+        "file": "src/app/history/history.page.scss",
         "hash": "3244421341483603138"
       },
       {
-        "file": "src/app/tab1/tab1.page.spec.ts",
-        "hash": "9476109993445867871"
+        "file": "src/app/history/history.page.spec.ts",
+        "hash": "5514302028122823617"
       },
       {
-        "file": "src/app/tab1/tab1.page.ts",
-        "hash": "9117558980506864833"
-      },
-      {
-        "file": "src/app/tab2/tab2-routing.module.ts",
-        "hash": "7350080520046749647"
-      },
-      {
-        "file": "src/app/tab2/tab2.module.ts",
-        "hash": "15372332323707330095"
-      },
-      {
-        "file": "src/app/tab2/tab2.page.html",
-        "hash": "13340392613393970086"
-      },
-      {
-        "file": "src/app/tab2/tab2.page.scss",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "src/app/tab2/tab2.page.spec.ts",
-        "hash": "8406418330988075840"
-      },
-      {
-        "file": "src/app/tab2/tab2.page.ts",
-        "hash": "1649071404575094014"
-      },
-      {
-        "file": "src/app/tab3/tab3-routing.module.ts",
-        "hash": "9012527419557272185"
-      },
-      {
-        "file": "src/app/tab3/tab3.module.ts",
-        "hash": "10502422086192062511"
-      },
-      {
-        "file": "src/app/tab3/tab3.page.html",
-        "hash": "1640442279298071434"
-      },
-      {
-        "file": "src/app/tab3/tab3.page.scss",
-        "hash": "3244421341483603138"
-      },
-      {
-        "file": "src/app/tab3/tab3.page.spec.ts",
-        "hash": "9818200618826629289"
-      },
-      {
-        "file": "src/app/tab3/tab3.page.ts",
-        "hash": "9950996585213729156"
+        "file": "src/app/history/history.page.ts",
+        "hash": "11642925848802732434"
       },
       {
         "file": "src/app/tabs/tabs-routing.module.ts",
-        "hash": "7044889794849427242"
+        "hash": "4472021661219200780"
       },
       {
         "file": "src/app/tabs/tabs.module.ts",
@@ -227,7 +215,7 @@
       },
       {
         "file": "src/app/tabs/tabs.page.html",
-        "hash": "10354490750562014135"
+        "hash": "11338810001119563955"
       },
       {
         "file": "src/app/tabs/tabs.page.scss",
@@ -242,6 +230,30 @@
         "hash": "15132660516945422335"
       },
       {
+        "file": "src/app/week/week-routing.module.ts",
+        "hash": "7964097249355712543"
+      },
+      {
+        "file": "src/app/week/week.module.ts",
+        "hash": "16927493261269448619"
+      },
+      {
+        "file": "src/app/week/week.page.html",
+        "hash": "5687307801996651386"
+      },
+      {
+        "file": "src/app/week/week.page.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/week/week.page.spec.ts",
+        "hash": "12629756209726824112"
+      },
+      {
+        "file": "src/app/week/week.page.ts",
+        "hash": "15572682523648929704"
+      },
+      {
         "file": "src/assets/icon/favicon.png",
         "hash": "17482944836898362639"
       },
@@ -251,11 +263,11 @@
       },
       {
         "file": "src/environments/environment.prod.ts",
-        "hash": "5406836414239361753"
+        "hash": "9212368188945159422"
       },
       {
         "file": "src/environments/environment.ts",
-        "hash": "17458466784506237106"
+        "hash": "7596417307750707974"
       },
       {
         "file": "src/global.scss",
